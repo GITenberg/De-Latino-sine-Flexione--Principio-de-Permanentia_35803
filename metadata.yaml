@@ -1,0 +1,28 @@
+_repo: De-Latino-sine-Flexione--Principio-de-Permanentia_35803
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35803-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peano, Giuseppe
+    alias: Peano, G. (Giuseppe)
+    birthdate: 1858
+    deathdate: 1932
+    gutenberg_agent_id: '37909'
+    url: http://www.gutenberg.org/2009/agents/37909
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Peano
+description: ''
+gutenberg_issued: '2011-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35803'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Interlingua (Latin without inflections)'
+- !lcc 'PM'
+title: De Latino sine Flexione; Principio de Permanentia
+url: http://www.gutenberg.org/ebooks/35803
