@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37909
     wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Peano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35803#De-Latino-sine-Flexione--Principio-de-Permanentia
 gutenberg_issued: '2011-04-09'
 gutenberg_type: Text
 identifiers:
